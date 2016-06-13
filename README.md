@@ -30,6 +30,7 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 | -------: | ------- |
 | `rcc→`   | class component skeleton |
 | `rcc→`   | legacy component skeleton |
+| `rsc→`   | stateless functional component skeleton |
 | `cdm→`   | `componentDidMount() {…}` |
 | `cdup→`  | `componentDidUpdate(prevProps, prevState) {…}` |
 | `cwm→`   | `componentWillMount() {…}` |
